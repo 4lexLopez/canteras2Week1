@@ -1,32 +1,12 @@
 # canteras2Week1
 In this repository you can find the exercises from practice 1 and practice 2 for week 1 of Sofka Canteras 1 program
 
-# Foobar
+## Overview
+The repo was created to allocate the files developed for the practice **Manejo de Clases y Objetos en Java**.
 
-Foobar is a Python library for dealing with word pluralization.
+In the package [FirstThreeClasses] you can find the first three proposed classes: **Person**, **Fruit** and **BankAccount**. There were added getters and setter methods for each class attributes in this exercise.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+In the package [SecondThreeClasses] you can find another three classes: **Person**, **Fruit** and **BankAccount**.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
